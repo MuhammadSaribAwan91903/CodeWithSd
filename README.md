@@ -1,2 +1,0 @@
-# MalikMohammadSaribAwan
-Only MMSA
