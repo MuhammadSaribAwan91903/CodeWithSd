@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+     /* background-color: #011627; */
+    color: white; 
+    text-align: center;
+background: url('https://cdn.pixabay.com/photo/2017/09/14/22/42/milky-way-2750627_960_720.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+h1{
+    font-size: 80px;
+    font-weight: bold;
+    font-style: italic;
+}
+input{
+    height: 50px;
+    width: 80px;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: none;
+    margin: 10px;
+    background-color: white;
+    color: black;
+}
+.btn:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
